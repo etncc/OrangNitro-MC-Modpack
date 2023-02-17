@@ -1,4 +1,4 @@
-# OrangNitro-MC-Modpack
+# OrangNitro Minecraft Modpack
 
 ## Modlist
 
