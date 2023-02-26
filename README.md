@@ -2,6 +2,7 @@
 
 ## Modlist
 
+* AutoModpack [Mod Link](https://modrinth.com/mod/automodpack)
 * Applied Energistics 2 [Mod Link](https://modrinth.com/mod/ae2)
 * Animatica [Mod Link](https://modrinth.com/mod/animatica)
 * AppleSkin [Mod Link](https://modrinth.com/mod/appleskin)
